@@ -1,5 +1,5 @@
 # About Me:
-Aspiring Computer Science professional with hands-on experience with machine learning, full-stack development, and analyzing data. Skilled in Python, Java, C, SQL, HTML/CSS, Flask, VBA, and more. Known for efficient problem solving abilities, critical thinking, and the ability to quickly learn and apply new skills and technologies. Dedicated to delivering high quality results and contributing meaningfully to important projects. Eager to apply my theoretical knowledge and technical skills in a practical real-world setting. <br><br>[Visit my Portfolio!](https://hayward-d.github.io/Portfolio)
+Aspiring Computer Science professional with hands on experience with  machine learning, full stack development, and analyzing data. Skilled in Python, Java, C, SQL, HTML/CSS, Flask, VBA, and more. Known for efficient problem solving abilities, critical thinking, and the ability to quickly learn and apply new skills and technologies. Dedicated to delivering high quality results and contributing meaningfully to important projects. Eager to apply my theoretical knowledge and technical skills in a practical real world  setting. <br><br>[Visit my Portfolio!](https://hayward-d.github.io/Portfolio)
 
 
 # Tech Stack:
